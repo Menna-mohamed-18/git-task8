@@ -1,0 +1,22 @@
+.content h1{
+    font-size: 80px;
+    font-family: Impact;
+    
+}
+.content p{
+    font-size: 30px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(107, 150, 136);
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(140, 144, 140);}
+
+    body{
+        background-color: rgb(238, 229, 214);
+    }
